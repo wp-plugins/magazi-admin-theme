@@ -14,6 +14,8 @@ A clean, minimalistic administration theme inspired from the new customizer look
 A clean, minimalistic administration theme inspired from the new customizer look of wordpress 3.4.1
 It's pretty basic and adds a css file to your administration.
 
+This project is on github too, http://nerdzgr.github.com/magazitheme/
+
 == Installation ==
 
 Just copy to your plugins folder and activate (or Network activate) it.
