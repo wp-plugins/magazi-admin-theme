@@ -22,6 +22,10 @@ Just copy to your plugins folder and activate (or Network activate) it.
 
 == Changelog ==
 
+= 1.0.2 =
+* Cleanups
+* enabled icons when the menu is minimized
+
 = 1.0.1 =
 * Minor bug fix
 * enabled flyouts
