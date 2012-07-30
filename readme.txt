@@ -19,3 +19,12 @@ This project was built for the http://magazi.org network of stores, and you can 
 == Installation ==
 
 Just copy to your plugins folder and activate (or Network activate) it.
+
+== Changelog ==
+
+= 1.0.1 =
+* Minor bug fix
+* enabled flyouts
+
+= 1.0 =
+* Initial version
