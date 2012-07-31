@@ -248,3 +248,7 @@ ul.list{
 	left: 32px;
 }
 
+.folded #wpcontent, .folded #footer{
+	margin-left: 52px !important;
+}
+
