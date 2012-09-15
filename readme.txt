@@ -15,6 +15,9 @@ A clean, minimalistic administration theme inspired from the new customizer look
 A clean, minimalistic administration theme inspired from the new customizer look of wordpress 3.4.1
 It's pretty basic and adds a css file to your administration.
 
+Since this plugin was created I have used the knowledge that I have acquired to build the bootstrap admin theme, which I would recomend you use instead of this one.
+You can get it here: http://wordpress.org/extend/plugins/bootstrap-admin/
+
 This project was built for the http://magazi.org network of stores.
 
 == Installation ==
